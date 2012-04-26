@@ -1,4 +1,4 @@
-auto-plant-uml
-==============
+SeedUML
+=======
 
 PlantUML diagram generator from code base
